@@ -1,3 +1,5 @@
-# Robinhood-Trading App
- `App live` [Here](https://robinhood-app-6939d.web.app)
+# Robinhood Traiding App Clone
 
+Robinhood Traiding App Clone using React.
+
+Live Preview : https://robinhood-trading-app-clone.erfanhabibipanah.vercel.app/
